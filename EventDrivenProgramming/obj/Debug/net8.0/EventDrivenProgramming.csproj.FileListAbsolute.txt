@@ -1,0 +1,14 @@
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\bin\Debug\net8.0\EventDrivenProgramming.exe
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\bin\Debug\net8.0\EventDrivenProgramming.deps.json
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\bin\Debug\net8.0\EventDrivenProgramming.runtimeconfig.json
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\bin\Debug\net8.0\EventDrivenProgramming.dll
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\bin\Debug\net8.0\EventDrivenProgramming.pdb
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\EventDrivenProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\EventDrivenProgramming.AssemblyInfoInputs.cache
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\EventDrivenProgramming.AssemblyInfo.cs
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\EventDrivenProgramming.csproj.CoreCompileInputs.cache
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\EventDrivenProgramming.dll
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\refint\EventDrivenProgramming.dll
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\EventDrivenProgramming.pdb
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\EventDrivenProgramming.genruntimeconfig.cache
+C:\Users\pc-desarrollo\source\repos\EventDrivenProgramming\EventDrivenProgramming\obj\Debug\net8.0\ref\EventDrivenProgramming.dll
